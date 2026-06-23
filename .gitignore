@@ -11,9 +11,6 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Dataset (optional)
-data/*.csv
-
 # OS files
 .DS_Store
 Thumbs.db
