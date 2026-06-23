@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Dataset (optional)
+data/*.csv
+
+# OS files
+.DS_Store
+Thumbs.db
